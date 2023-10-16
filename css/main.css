@@ -1,0 +1,81 @@
+/* name: Jakshesh SObhavat id : 8911231*/
+body {
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: rgba(161, 65, 5, 0.614);
+    font-size: 25px;
+    
+}
+
+h2 {
+    color: blue;
+    font-size: 20px;
+}
+
+main {
+    height: 70vh;
+}
+
+figure img {
+    width: 90%;
+    height: 80%;
+    border: 5px rgb(37, 125, 179);
+}
+
+figure {
+    width: 45%;
+    height: 60%;
+    padding: 10px;
+    background-color: mediumseagreen;
+    margin: auto;
+}
+
+#DOG {
+    float: left;
+}
+
+#DOGS{
+    float: right;
+}
+
+section {
+    clear: both;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+a {
+    color: mediumaquamarine;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+ul {
+    list-style: circle;
+    line-height: 2;
+}
+
+header {
+    background-color: khaki;
+}
+
+footer {
+    background-color: khaki;
+}
